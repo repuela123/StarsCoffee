@@ -16,13 +16,13 @@ Stars Coffee App.
 <img src="assets/images/screenshot/onboarding.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/images/screenshot/auths.jpg">  
 
 # Sign In Screen
 <img src="assets/images/screenshot/auth.jpg">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+<img src="assets/images/screenshot/tabs.jpg">  
 
 #WalkThrough
 * https://youtube.com/shorts/GnvLyFK0MQ8?si=oJGuhM3QTj_-np1I
