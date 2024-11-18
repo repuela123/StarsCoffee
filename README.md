@@ -19,7 +19,7 @@ Stars Coffee App.
 <img src="assets/images/screenshot/signup.png">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/images/screenshot/auth.jpg">  
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
