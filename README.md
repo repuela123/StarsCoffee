@@ -23,3 +23,6 @@ Stars Coffee App.
 
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.png">  
+
+#WalkThrough
+* https://youtube.com/shorts/GnvLyFK0MQ8?si=oJGuhM3QTj_-np1I
