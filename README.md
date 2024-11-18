@@ -13,7 +13,7 @@ Stars Coffee App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="assets/images/screenshot/onboarding.jpg">  
 
 # Sign Up Screen
 <img src="assets/images/screenshot/signup.png">  
